@@ -34,15 +34,19 @@ ___
 *Since most of the steering anle values are almost zero and the number of taining data is small, additional data is generated using the following techniques
 
 *Brightness*
+
 ![Brightness](https://github.com/Jasmamu1992/BehavioralCloning/blob/master/Brightness.png)
 
 *Shift*
+
 ![Brightness](https://github.com/Jasmamu1992/BehavioralCloning/blob/master/Shift.png)
 
 *Flip*
+
 ![Flip](https://github.com/Jasmamu1992/BehavioralCloning/blob/master/Flip.png)
 
 *Shadows*
+
 ![Shadows](https://github.com/Jasmamu1992/BehavioralCloning/blob/master/Shadows.png)
 
 
