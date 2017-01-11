@@ -54,6 +54,11 @@ ___
 
 ![Shadows](https://github.com/Jasmamu1992/BehavioralCloning/blob/master/Shadows.png)
 
+
+___
+
+**Model Training**
+
 > The model is trained using Keras generator_fit
 
 > A training data generator that generates 128 datasamples(64 from the dataset and 64 generated from augmentation techniques explained above)
