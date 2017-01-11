@@ -15,11 +15,13 @@ ___
 
 **Model Architecture**
 
-> The following model description is generated using Keras visualization tools
+> The model has 5 convolutional layers with max pooling and dropout and 5 fully connected layers
 
 > Dropout is used with a keep probability of 0.5 in order to improve generalization
 
 > Relu is used as activation function
+
+> The following model description is generated using Keras visualization tools
 
 ![Model Architecture](https://github.com/Jasmamu1992/BehavioralCloning/blob/master/model.png)
 
@@ -52,6 +54,13 @@ ___
 
 ![Shadows](https://github.com/Jasmamu1992/BehavioralCloning/blob/master/Shadows.png)
 
+> The model is trained using Keras generator_fit
+
+> A training data generator that generates 128 datasamples(64 from the dataset and 64 generated from augmentation techniques explained above)
+
+> Validation data containing 6000 data samples(3000 from the data set and 3000 generated from augmentation techniques explained above)
+
+> The model is trained for 10 epochs
 
 
 
