@@ -68,6 +68,10 @@ ___
 > The model is trained for 10 epochs
 
 
+### You can look at the videos showing how the car is being driven in the simulator by the trained deep network on two different tracks in the following links
+[Track1](./BehavioralCloningTrack1.ogv)
+[Track2](./BehavioralCloningTrack2.ogv)
+
 
 
 
